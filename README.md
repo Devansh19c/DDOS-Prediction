@@ -13,7 +13,7 @@ A DDoS (Distributed Denial of Service) prediction project using an Artificial Ne
 Create a New Environment
 
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.12.3 -y
 ```
 Installing Dependencies
 ```
